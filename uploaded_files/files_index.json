@@ -1,0 +1,28 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [],
+  "summary": {
+    "total_files": 1,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 0,
+      "document": 1
+    },
+    "processing_time": null
+  },
+  "document": [
+    {
+      "original_name": "u",
+      "file_name": "u.md",
+      "file_path": "/workspace/aml_risk_assessment/uploaded_files/documents/u.md",
+      "file_type": "pdf",
+      "category": "document",
+      "summary": "Processed u for coding",
+      "source_id": "2011080036211744768"
+    }
+  ]
+}
